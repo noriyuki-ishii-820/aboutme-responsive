@@ -1,0 +1,82 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#d4d1d1;
+    font-family: 'Roboto', sans-serif;
+    min-height:100%;
+}
+
+.my-name {
+    color:white;
+}
+
+.navbar-brand {
+    font-family: 'DM Serif Text', serif;
+    background: rgb(48, 175, 158);
+}
+
+#about, #portfolio, #contact {
+    color:black;
+}
+
+
+.container {
+    margin-top: 50px;
+    margin-bottom:50px;
+    min-height:100%;
+
+}
+
+.heading {
+    font-size: 40px;
+    border-bottom: 1px solid lightgrey;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color:rgb(48, 175, 158);
+    padding-bottom:25px;
+    font-family: 'DM Serif Text', serif;
+}
+
+#profile-image {
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.main-box {
+    background:white;
+    padding:10px 5px;
+}
+
+p {
+    line-height: 30px;
+}
+
+.portfolio-image {
+    margin-bottom:30px;
+}
+
+label {
+    margin: 15px 0px;
+}
+
+.submit-button {
+    background-color: rgb(48, 175, 158);
+    border: none;
+    border-radius:0;
+    padding: 18px 35px;
+
+}
+
+footer {
+
+    height:70px;
+    width:100%;
+    background:grey;
+    text-align:center;
+    line-height:70px;
+    border-top: 7px rgb(48, 175, 158) solid;
+}
