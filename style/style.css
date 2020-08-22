@@ -57,6 +57,9 @@ p {
 
 .portfolio-image {
     margin-bottom:30px;
+    width:350px;
+    height:350px;
+    object-fit: cover;
 }
 
 label {
@@ -70,6 +73,7 @@ label {
     padding: 18px 35px;
 
 }
+
 
 footer {
     bottom: 0;
