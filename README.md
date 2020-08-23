@@ -1,5 +1,9 @@
 # usydBootcamp-week2-homework-Noriyuki
 
+USYD Bootcamp - Assignment
+
+Student Name: Noriyuki Ishii 
+
 # H1 Introduction
 
 This is my work for the second week's assignment.
