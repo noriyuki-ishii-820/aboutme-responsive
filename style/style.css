@@ -46,7 +46,7 @@ p {
 
 .main-box {
     background:white;
-    padding:10px 5px;
+   
 }
 
 footer {
@@ -93,13 +93,24 @@ footer {
 
 /* responsive */
 
-// Small devices (landscape phones, 576px and up)
-@media only screen and  (max-width: 576px) { ... }
 
-// Medium devices (tablets, 768px and up)
+/* Medium devices (tablets, 768px and up)*/
 @media only screen and (max-width: 768px) { 
-   
-    ... }
+    
+    .portfolio-image-box {
+            margin-right: 1px;
+    }
+      
+ }
 
-// Large devices (desktops, 992px and up)
-@media only screen and  (max-width: 992px) { ... }
+
+/* Small devices (landscape phones, 400  px and up) */
+@media only screen and  (max-width: 400 px) {
+
+  
+
+    
+    }
+
+
+ }
