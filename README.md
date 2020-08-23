@@ -22,5 +22,7 @@ This includes the following.
 * Comes with my personalized information. (bio, name, images, links to Linkedin and Github)
 * Bootstrap components and grid systems in use.
 
+# Github.io Link
 
+https://noriyuki-ishii-820.github.io/usydBootcamp-week2-homework-Noriyuki/
 
