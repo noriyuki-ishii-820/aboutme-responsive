@@ -129,11 +129,7 @@ footer {
 /* Small devices (landscape phones, 400px and up) */
 @media only screen and (max-width: 400px) {
 
-    .main-box {
-        width:90%;
-        margin-left: auto;
-        margin-right:auto;
-    }
+
 
     .portfolio-image {
         width: 100%;
