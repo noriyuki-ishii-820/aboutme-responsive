@@ -72,9 +72,9 @@ footer {
 /* porfolio page */
 
 .portfolio-image {
-    margin-bottom:30px;
-    width:350px;
-    height:350px;
+
+    width:95%;
+    height:95%;
     object-fit: cover;
 }
 
@@ -100,10 +100,7 @@ footer {
 
 /* Medium devices (tablets, 768px and up)*/
 @media only screen and (max-width: 768px) { 
-    
-    .portfolio-image-box {
-            margin-right: 1px;
-    }
+
      
     #contact-box {
         height: 70vh;
