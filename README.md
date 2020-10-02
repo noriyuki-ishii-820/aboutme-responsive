@@ -1,28 +1,24 @@
-# usydBootcamp-week2-homework-Noriyuki
+## Responsive website
 
-USYD Bootcamp - Assignment
+powered by Bootstrap, this website is perfectly responsive to mobile phones, tablets and laptops.
+It will automatically re-organize the columns to the display-width.
 
-Student Name: Noriyuki Ishii 
+## Tech used
+- HTML
+- CSS
+- Bootstrap
 
-# H1 Introduction
+## Deployment
 
-This is my work for the second week's assignment.
-This includes the following.
+https://noriyuki-ishii-820.github.io/aboutme-responsive/index.html
 
+## Screenshots
 
-# How this is meeting the Requirements 
+![](me1.png)
+![](me2.png)
+![](me3.png)
 
-* Functional, deployed application
-* GitHub repository with README describing the project (this file!)
-* Consistent Navbars across all pages.
-* Navbar with links to Home/About, Contact, and Portfolio pages.
-* All links are valid and working.
-* Semantic htmls in place.
-* HTML validated using https://validator.w3.org/nu/ 
-* Comes with my personalized information. (bio, name, images, links to Linkedin and Github)
-* Bootstrap components and grid systems in use.
+## Contact
 
-# Github.io Link
-
-https://noriyuki-ishii-820.github.io/usydBootcamp-week2-homework-Noriyuki/
+nishii.dev.syd@gmail.com
 
